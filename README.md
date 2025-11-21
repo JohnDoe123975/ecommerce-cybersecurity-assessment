@@ -4,10 +4,9 @@
 This repository contains comprehensive documentation for a cybersecurity risk assessment and mitigation strategy implementation for an e-commerce platform.
 
 ## 👥 Team Members
-- **Project Manager:** [Friend's Name] - [Student ID]
-- **Security Lead:** [Team Member 2] - [Student ID]
-- **Network Specialist:** [Team Member 3] - [Student ID]
-- **Compliance Specialist:** [Team Member 4] - [Student ID]
+- **Project Manager:** Malmika Daham Sandagomi 
+- **Security Lead:**  Pathum Madushan Jayawardana 
+- **Network Specialist:**  Ashmika Shashyanda Ramanayaka
 
 ## 📅 Project Timeline
 - **Duration:** 14 weeks
